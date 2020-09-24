@@ -1,18 +1,18 @@
-data_dict = {}
-n = int(input())
+marksheet = []
+scores = []
+dict1 = {}
+user = int(input())
+for i in range(user):
+    x = name, *score = input().split()
+    b = list(map(float, score))
+    dict1[name] = b
 
-for i in range(n):
-    user_marks = []
-    user = input()
-    for i in range(3):
-        user_in = int(input())
-        user_marks.append(user_in)
-    data_dict.update({user: user_marks})
+user_input = input()
+li = dict1[user_input]
+a = sum(li)/3
+print('{0:.2f}'.format(a))
 
-print(data_dict)
-user_name = input()
-result = data_dict.get(user_name)
 
-average = (result[0] + result[1] + result[2])/3
 
-print(average)
+
+
