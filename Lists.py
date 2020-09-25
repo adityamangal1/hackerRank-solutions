@@ -1,3 +1,9 @@
+'''
+Author: Aditya Mangal 
+Date:  23 september,2020
+Purpose: python practise problem
+
+'''
 if __name__ == "__main__":
 
     final_list = []

@@ -1,3 +1,10 @@
+
+'''
+Author: Aditya Mangal 
+Date:  25 september,2020
+Purpose: python practise problem
+
+'''
 def swap_case(s):
 
     

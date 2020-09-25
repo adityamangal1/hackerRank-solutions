@@ -1,3 +1,9 @@
+'''
+Author: Aditya Mangal 
+Date: 24 september,2020
+Purpose: python practise problem
+
+'''
 marksheet = []
 scores = []
 n = int(input())

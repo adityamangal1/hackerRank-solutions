@@ -1,3 +1,10 @@
+
+'''
+Author: Aditya Mangal 
+Date:  21 september,2020
+Purpose: python practise problem
+
+'''
 marksheet = []
 scores = []
 dict1 = {}
