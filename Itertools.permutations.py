@@ -1,3 +1,9 @@
+'''
+Author: Aditya Mangal 
+Date:  2 october,2020
+Purpose: python practise problem
+
+'''
 from itertools import permutations
 
 x = word, num = input().split()
