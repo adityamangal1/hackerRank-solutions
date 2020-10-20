@@ -2,7 +2,7 @@
 
 🍒 Solutions to HackerRank problems.
 </p> 
-<p align="center"><img src="https://img.shields.io/badge/Author-adityamangal1-green.svg"> 
+<p align="center"><img src="https://img.shields.io/badge/Author-adityamangal-green.svg"> 
 </p>
 
 <p align="center">
